@@ -8,7 +8,7 @@ assignees: 'KINGAWESOME266'
 ---
 
 ## Brief Description of the bug
-*Simply write what is supposed to happen as part of the task.*
+*Simply write what the bug is.*
 
 ## Additional Information
 *Write any other helpful information here.*
