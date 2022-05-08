@@ -1,6 +1,6 @@
 ---
 name: Planned Task
-about: Create a planned task to document the initial development of a product.
+about: Create a planned task to document the initial development of a product
 title: '[PLAN]: '
 labels: 'plan'
 assignees: 'KINGAWESOME266'

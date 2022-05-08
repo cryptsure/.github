@@ -1,6 +1,6 @@
 ---
 name: Enhancement Report
-about: Create an enhancement report to request any changes or additional features to the product.
+about: Create an enhancement report to request any changes or additional features to the product
 title: '[ENHANCEMENT]: '
 labels: 'enhancement'
 assignees: 'KINGAWESOME266'

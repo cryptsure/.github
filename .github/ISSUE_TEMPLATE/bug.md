@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a bug report to help us improve the product.
+about: Create a bug report to help us improve the product
 title: '[BUG]: '
 labels: 'bug'
 assignees: 'KINGAWESOME266'
